@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 # Welcome to My GitHub Profile 👋
 
-I am an active member of the following organizations. Click on any organization to explore their repositories:
+Click on any organization to explore their repositories:
 
 ### My Organizations:
 1. [**Abdo-computer-vision**](https://github.com/Abdo-computer-vision)
-   - Description: This organization focuses on computer vision.
+   - Description: This organization contains a collection of projects I developed while learning computer vision.
 
-2. [**Abdo-fullstack-projects-2023**](https://github.com/Abdo-fullstack-projects-2023)
-   - Description: This organization contains full stack-projects.
+2. [**Abdo-full stack-projects-2023**](https://github.com/Abdo-fullstack-projects-2023)
+   - Description: This organization contains a collection of projects I developed while learning and mastering full-stack development.
 
 ---
 
