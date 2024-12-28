@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Welcome to My GitHub Profile 👋
+
+I am an active member of the following organizations. Click on any organization to explore their repositories:
+
+### My Organizations:
+1. [**Abdo-computer-vision**]([https://github.com/organization1](https://github.com/orgs/Abdo-computer-vision/dashboard))
+   - Description: This organization focuses on computer vision.
+
+2. [**Abdo-fullstack-projects-2023**]([https://github.com/organization2](https://github.com/orgs/Abdo-fullstack-projects-2023/dashboard))
+   - Description: This organization contains full stack-projects.
+
+---
+
+Feel free to check out the repositories under each organization to see our amazing work!
+
