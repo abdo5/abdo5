@@ -21,10 +21,10 @@ Click on any organization to explore their repositories:
 
 ### My Organizations:
 1. [**Abdo-computer-vision**](https://github.com/Abdo-computer-vision)
-   - Description: This organization contains a collection of projects I developed while learning computer vision.
+   - This organization contains a collection of projects I developed while learning computer vision.
 
 2. [**Abdo-full stack-projects-2023**](https://github.com/Abdo-fullstack-projects-2023)
-   - Description: This organization contains a collection of projects I developed while learning and mastering full-stack development.
+   - This organization contains a collection of projects I developed while learning and mastering full-stack development.
 
 ---
 
